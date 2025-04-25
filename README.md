@@ -1,4 +1,4 @@
-# ManifestHub
+# Clair Obscur: Expedition 33
 
 Steam Depot Manifest Cache
 
