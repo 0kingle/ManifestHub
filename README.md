@@ -1,3 +1,0 @@
-# Clair Obscur: Expedition 33
-
-1903341_213847257621599287
