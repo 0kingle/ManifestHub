@@ -2,4 +2,9 @@
 
 Steam Depot Manifest Cache
 
-Update time: 2025-04-24
+Last updated: 2025-04-24
+
+---
+
+> **This repository has moved to:**  
+> 🔗 https://github.com/0kingle/SteamViolatorHub
